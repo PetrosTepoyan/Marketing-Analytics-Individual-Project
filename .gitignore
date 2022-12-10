@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+# Jupyter Notebook
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
